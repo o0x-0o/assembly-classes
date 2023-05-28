@@ -1,2 +1,3 @@
-# assembly-classes
-Exercicios de linguagem assembly.
+# assembly-exercises
+
+Exercises from assembly language classes
